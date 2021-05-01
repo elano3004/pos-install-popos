@@ -33,6 +33,21 @@ sudo apt update && sudo apt dist-upgrade -y
 flatpak update
 sudo apt autoclean
 sudo apt autoremove -y
-# ------------------------------------------------------ #
 
+# -------------- ARQUIVOS .DEB P/ BAIXAR --------------- #
+## 4kVideoDownloader
+## Code
+## Discord
+## Evernote
+## Google-Chrome
+## Insomnia
+## Iriun
+## Mongodb-Compass
+## Mysql-Workbench
+## Onlyoffice
+## Simplenote
+## Slack
+## Wps-Office #
+
+# ------------------------------------------------------ #
 
